@@ -14,6 +14,6 @@ while i<4:
     while j<4:
         print("#",end="")
         j=j+1
-    print("\n")
+    print("")
     j=0
     i=i+1
